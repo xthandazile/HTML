@@ -27,6 +27,13 @@ header {
     flex-wrap: wrap;
 }
 
+.logo img{
+    width: 70px;
+    height: 70px;
+    object-fit: contain;
+}
+
+
 .logo h1 {
     color: #D4AF37;
     font-family: Georgia, serif;
