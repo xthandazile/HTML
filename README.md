@@ -1,2 +1,2 @@
-javascript file loaded
-Contact file created
+javascript file loaded.
+Contact file created.
