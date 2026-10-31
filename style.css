@@ -94,6 +94,10 @@ section h2 {
     background-position: center;
     background-repeat: no-repeat;
 }
+#About-Us p2 {
+    font-size: 20px;
+    color: #D4AF37;
+}
 #home h2 {
     font-size: 45px;
     color: #D4AF37;
@@ -144,6 +148,18 @@ button:hover,
 #services h3 {
     color: #4A2C2A;
     margin-bottom: 10px;
+}
+#services a {
+    display: inline-block;
+    background-color: #C97C8A;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: 0.3s;
 }
 
 .gallery {
