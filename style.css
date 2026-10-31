@@ -88,9 +88,15 @@ section h2 {
     align-items: center;
 }
 
+ .About-Us {
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('Assets/image/Images/salon.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 #home h2 {
     font-size: 45px;
-    color: #4A2C2A;
+    color: #D4AF37;
 }
 
 #home p {
@@ -213,7 +219,7 @@ footer {
 }
 /* Responsive Design*/
 
-@media (max-width: 768px){
+@media (max-width: 768px) {
 
     header {
         flex-direction: column;
@@ -246,3 +252,21 @@ footer {
         padding: 50px 5%;
     }
 }
+@media (max-width: 480px) {
+    header {
+        padding: 15px 5%;
+    }
+
+    #home h2 {
+        font-size: 28px;
+    }
+
+    #home p {
+        font-size: 16px;
+    }
+
+    form {
+        padding: 20px;
+    }
+}
+
