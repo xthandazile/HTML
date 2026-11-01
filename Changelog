@@ -1,28 +1,24 @@
 Changelog – Lihle's Salon Website
 
-All notable changes to the Lihle's Salon website are documented in this file.
-
-The project follows a simple versioning system to track improvements and updates.
-
-[1.0.0] – 2026-11-01
+All  changes to the Lihle's Salon website are documented in this file.
 
 Added
 
-- Created the basic HTML structure for the website.
-- Added a header displaying the salon name and slogan.
-- Created a navigation menu for Home, About Us, Services, Gallery, and Contact pages.
-- Added the main content area and footer.
-- Created an About Us section with the salon's mission, vision, and values.
-- Added a Services page featuring hair styling, nail services, makeup, and bridal services.
-- Added service descriptions and example prices.
-- Created a booking form for appointment requests.
-- Added form fields for customer name, email, phone number, service, date, time, and additional information.
-- Added client-side validation using HTML5 and JavaScript.
-- Added CSS styling for colours, typography, buttons, and service cards.
-- Added background image styling for the About Us section.
-- Added hover effects to navigation links and service cards.
-- Added responsive CSS rules to improve the layout on mobile devices and desktop screens.
-- Created a README file describing the project, technologies, features, and setup instructions.
+ Created the basic HTML structure for the website.
+ Added a header displaying the salon name and slogan.
+ Created a navigation menu for Home, About Us, Services, Gallery, and Contact pages.
+ Added the main content area and footer.
+ Created an About Us section with the salon's mission, vision, and values.
+ Added a Services page featuring hair styling, nail services, makeup, and bridal services.
+ Added service descriptions and example prices.
+ Created a booking form for appointment requests.
+ Added form fields for customer name, email, phone number, service, date, time, and additional information.
+ Added client-side validation using HTML5 and JavaScript.
+ Added CSS styling for colours, typography, buttons, and service cards.
+ Added background image styling for the About Us section.
+ Added hover effects to navigation links and service cards.
+ Added responsive CSS rules to improve the layout on mobile devices and desktop screens.
+ Created a README file describing the project, technologies, features, and setup instructions.
 
 Changed
 
@@ -48,10 +44,15 @@ Known Limitations
 Future Updates
 
 Planned
-
-- Connect booking forms to a database or booking service.
 - Add booking confirmation notifications.
 - Complete and test the Gallery and Contact pages.
 - Add customer reviews and testimonials.
-- Improve accessibility and search engine optimisation.
-- Test all navigation links and forms before deployment. 
+
+Referencing
+nail image
+https://www.blanchemacdonald.com/programs/nail-technician-courses/
+Brides image
+https://www.brides.com/clean-hair-vs-dirty-hair-wedding-hairstyling-8640294
+
+
+
