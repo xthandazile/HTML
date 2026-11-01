@@ -22,33 +22,34 @@ Added
 
 Changed
 
-- Improved the website's appearance using a soft pink, white, and brown colour palette.
-- Updated the Services page layout to display services in attractive cards.
-- Improved image sizing and positioning using CSS.
-- Adjusted spacing, borders, and button styles to create a consistent design.
+ Improved the website's appearance using a soft pink, white, and brown colour palette.
+ Updated the Services page layout to display services in attractive cards.
+ Improved image sizing and positioning using CSS.
+ Adjusted spacing, borders, and button styles to create a consistent design.
 
 Improved
 
-- Made navigation clearer and easier to use.
-- Improved readability through consistent fonts, colours, and spacing.
-- Added validation messages to help customers complete the booking form correctly.
-- Improved the website layout for different screen sizes.
+ Made navigation clearer and easier to use.
+ Improved readability through consistent fonts, colours, and spacing.
+ Added validation messages to help customers complete the booking form correctly.
+ Improved the website layout for different screen sizes.
 
 Known Limitations
 
-- Booking requests are not yet stored in a database.
-- Contact form submissions are not yet connected to an email service or backend.
-- Example service prices must be confirmed and updated to match the salon's actual prices.
-- Gallery images and contact details should be updated with the salon's real information.
+ Booking requests are not yet stored in a database.
+ Contact form submissions are not yet connected to an email service or backend.
+ Example service prices must be confirmed and updated to match the salon's actual prices.
+ Gallery images and contact details should be updated with the salon's real information.
 
 Future Updates
 
 Planned
-- Add booking confirmation notifications.
-- Complete and test the Gallery and Contact pages.
-- Add customer reviews and testimonials.
+ Add booking confirmation notifications.
+ Complete and test the Gallery and Contact pages.
+ Add customer reviews and testimonials.
 
 Referencing
+
 nail image
 https://www.blanchemacdonald.com/programs/nail-technician-courses/
 Brides image
