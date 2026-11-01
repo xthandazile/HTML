@@ -1,0 +1,57 @@
+Changelog – Lihle's Salon Website
+
+All notable changes to the Lihle's Salon website are documented in this file.
+
+The project follows a simple versioning system to track improvements and updates.
+
+[1.0.0] – 2026-11-01
+
+Added
+
+- Created the basic HTML structure for the website.
+- Added a header displaying the salon name and slogan.
+- Created a navigation menu for Home, About Us, Services, Gallery, and Contact pages.
+- Added the main content area and footer.
+- Created an About Us section with the salon's mission, vision, and values.
+- Added a Services page featuring hair styling, nail services, makeup, and bridal services.
+- Added service descriptions and example prices.
+- Created a booking form for appointment requests.
+- Added form fields for customer name, email, phone number, service, date, time, and additional information.
+- Added client-side validation using HTML5 and JavaScript.
+- Added CSS styling for colours, typography, buttons, and service cards.
+- Added background image styling for the About Us section.
+- Added hover effects to navigation links and service cards.
+- Added responsive CSS rules to improve the layout on mobile devices and desktop screens.
+- Created a README file describing the project, technologies, features, and setup instructions.
+
+Changed
+
+- Improved the website's appearance using a soft pink, white, and brown colour palette.
+- Updated the Services page layout to display services in attractive cards.
+- Improved image sizing and positioning using CSS.
+- Adjusted spacing, borders, and button styles to create a consistent design.
+
+Improved
+
+- Made navigation clearer and easier to use.
+- Improved readability through consistent fonts, colours, and spacing.
+- Added validation messages to help customers complete the booking form correctly.
+- Improved the website layout for different screen sizes.
+
+Known Limitations
+
+- Booking requests are not yet stored in a database.
+- Contact form submissions are not yet connected to an email service or backend.
+- Example service prices must be confirmed and updated to match the salon's actual prices.
+- Gallery images and contact details should be updated with the salon's real information.
+
+Future Updates
+
+Planned
+
+- Connect booking forms to a database or booking service.
+- Add booking confirmation notifications.
+- Complete and test the Gallery and Contact pages.
+- Add customer reviews and testimonials.
+- Improve accessibility and search engine optimisation.
+- Test all navigation links and forms before deployment. 
