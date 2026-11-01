@@ -45,23 +45,15 @@ White "#FFFFFF"| Service cards and form backgrounds
 
 The project files are organised as follows:
 
-Lihles-Salon/
-│
-├── index.html
-├── about.html
-├── services.html
-├── gallery.html
-├── contact.html
-├── booking.html
-├── style.css
-├── README.md
-│
-└── images/
-    ├── salon-interior.jpg
-    ├── hair.jpg
-    ├── nails.jpg
-    ├── makeup.jpg
-    └── bridal.jpg
+Lihles-Salon's Salon
+Assets/images
+Changelog
+Contact.html
+Enquiry.html
+Index.html
+main.js
+Readme.md
+Style.css
 
 Note: The file names and images should match the files included in your actual project.
 
@@ -80,9 +72,8 @@ The website uses CSS Flexbox, CSS Grid, and media queries to adapt the layout to
 
 9. Form Validation
 
-The booking form uses HTML validation attributes such as "required", "type="email"", and "pattern". JavaScript provides additional client-side validation and feedback to users.
+The booking form uses HTML validation attributes such as "required", "type="email"", and "pattern". JavaScript provides additional client-side validation.
 
-Important: Client-side validation does not securely store bookings or send them to the salon. A backend or form-processing service is needed to process real booking requests.
 
 10. Future Improvements
 
@@ -91,7 +82,6 @@ Important: Client-side validation does not securely store bookings or send them 
 - Add online payments.
 - Display customer reviews and testimonials.
 - Add a salon location map.
-- Improve accessibility and search engine optimisation (SEO).
 
 11. Conclusion
 
