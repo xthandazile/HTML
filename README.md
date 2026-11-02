@@ -1,4 +1,4 @@
-ihle's Salon Website
+Lihle's Salon Website
 
 1. Project Overview
 
