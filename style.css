@@ -86,7 +86,9 @@ section h2 {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
 }
+
 
  #About-Us {
     background-image:linear-gradient(rgba(238, 233, 233, 0.5), rgba(0, 0, 0, 0.5)), url('Assets/image/Images/salon.jpeg');
@@ -96,12 +98,13 @@ section h2 {
 }
 #About-Us p2 {
     font-size: 20px;
-    color: #D4AF37;
+    color: #272624;
 }
 #home h2 {
     font-size: 45px;
     color: #D4AF37;
 }
+
 
 #home p {
     max-width: 650px;
